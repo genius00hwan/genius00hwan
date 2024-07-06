@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello Human 
 
-<!--
-**genius00hwan/genius00hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+- Kim Soohwan
+- Inha University Dept. of Computer Science & Engineering   (2021.03 ~ ing)
+- Inha University IT service team working student (2024.03 ~ ing)
 
-Here are some ideas to get you started:
+### Who am I
+> Hi. <br> I am a person who wants to become a better person than yesterday. <br> As a developer and person, I always aim to grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Activity
+- UMC 5th Server : Spring (2023.09 ~ 2024.02)
+
+- <a href="https://github.com/Landvibe-DataStructure-2024 ">Data Structure Study</a> Leader(Lead Mentor) of LANDVIBE, Inha University (2024.03 ~ 2024.07)
+
+- UMC 6th Server : Spring (2024.03 ~ 2024.07)
+
+- I-Curriculum Leader (2024.07 ~ ing)
+- Member of Inha University Venture Startup Academy (2024.03 ~ ing)
+
+
+## Skills
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+## contact
+qnfn120@gmail.com
+
+
