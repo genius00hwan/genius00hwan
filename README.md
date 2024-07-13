@@ -24,8 +24,11 @@
 
 - UMC 6th Server : Spring (2024.03 ~ 2024.07)
 
-- I-Curriculum Leader (2024.07 ~ ing)
+- <a href = "https://github.com/ICURRICULUM">I-Curriculum</a> Leader (2024.07 ~ ing)
+
 - Member of Inha University Venture Startup Academy (2024.03 ~ ing)
+
+- <a href = "https://github.com/cozy-mate">Cozymate</a> Backend Dveloper (2024.07 ~ ing)
 
 ## Skills
 - <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
