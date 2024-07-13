@@ -28,15 +28,14 @@
 - Member of Inha University Venture Startup Academy (2024.03 ~ ing)
 
 ## Skills
-<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">&nbsp;
 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp;
 
 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  &nbsp;
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
 
 ## contact
 qnfn120@gmail.com
