@@ -19,6 +19,11 @@
 - I-Curriculum Leader (2024.07 ~ ing)
 - Member of Inha University Venture Startup Academy (2024.03 ~ ing)
 
+## Algorithm
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qnfn120)](https://solved.ac/qnfn120)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=qnfn120&theme=warm)
 
 ## Skills
 <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"> 
