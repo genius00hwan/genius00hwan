@@ -9,36 +9,33 @@
 -----
 
 ## Profile
-- Kim Soohwan
-- Inha University Dept. of Computer Science & Engineering   (2021.03 ~ ing)
-- Inha University IT service team working student (2024.03 ~ ing)
+- 김수환(Kim Soohwan)
+- 인하대학교 컴퓨터공학과 (Inha University Dept. of Computer Science & Engineering) (2021.03 ~ 2025.02)
 
 ### Who am I
-> Hi. <br> I am a person who wants to become a better person than yesterday. <br> As a developer and person, I always aim to grow.
-
+> 안녕하세요. 저는 설계과정을 고민하는 과정을 좋아하는 개발잡니다.
+> 
+> 요구사항을 분석하고 서비스의 특성, 팀의 상황을 고려하여 적합한 설계과정을 도출하고 싶습니다.
+>
+> 동료와 함께 설계에 대해 토론하면서, 논의하는 과정을 즐깁니다.
+> 또, 기존 시스템의 구조를 파악하고 더 나은 구조를 고민하며 개선하는 과정도 좋아합니다.
+> 
+> 구조적으로 사고하며 더 나은 개발자로 성장하는데 집중하고 싶습니다.
 
 ## Activity
-- UMC 5th Server : Spring (2023.09 ~ 2024.02)
+- cozymate | Backend Developer (2024.07 ~ ing)
 
-- <a href="https://github.com/Landvibe-DataStructure-2024 ">Data Structure Study</a> Leader(Lead Mentor) of LANDVIBE, Inha University (2024.03 ~ 2024.07)
+- Inha University IT service team | working student (2024.03 ~ 2025.02)
 
-- UMC 6th Server : Spring (2024.03 ~ 2024.07)
+- UMC 5th Server | Spring (2023.09 ~ 2024.02)
 
-- <a href = "https://github.com/ICURRICULUM">I-Curriculum</a> Leader (2024.07 ~ ing)
+- Data Structure Study Leader(Lead Mentor) | of LANDVIBE, Inha University (2024.03 ~ 2024.07)
 
-- Member of Inha University Venture Startup Academy (2024.03 ~ ing)
+- UMC 6th Server | Spring (2024.03 ~ 2024.07)
 
-- <a href = "https://github.com/cozy-mate">Cozymate</a> Backend Dveloper (2024.07 ~ ing)
+- Server/Spring Study Leader(Lead Mentor) | of LANDVIBE, Inha University (2024.08 ~ 2024.09)
 
-## Skills
-- <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">&nbsp;
-
-- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp;
-
-
-- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  &nbsp;
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
+- I-Curriculum | Leader (2024.07 ~ 2025.04)
 
 ## contact
 qnfn120@gmail.com
