@@ -1,10 +1,4 @@
-# 👋 Hello Human 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qnfn120)](https://solved.ac/qnfn120)
-<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnfn120)](https://solved.ac/qnfn120)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=qnfn120&theme=warm)
+# Hello Human 
 
 -----
 
@@ -13,27 +7,28 @@
 - 인하대학교 컴퓨터공학과 (Inha University Dept. of Computer Science & Engineering) (2021.03 ~ 2025.02)
 
 ### Who am I
-> 전체 흐름을 이해하여 이에 맞는 근거 있는 설계를 지향합니다. 
-> 단순히 기능을 구현하고 기술을 도입하는 것을 넘어 **납기, 서비스의 목적, 기능의 특성, 팀의 상황**을 전반적으로 고려하고, 우선순위를 정해 최적의 선택을 내리는데 집중합니다.
+> 좋은 설계는 화려한 기술이 아니라, 서비스의 특성에 맞는 개선 지점을 찾는 것이라고 생각합니다.
 > 
-> 저는 팀이 함께 목표를 향해 나아가는 과정을 좋아합니다. 솔직한 소통으로 인정하고 노력하며, 팀을 우선해 기여할 수 있는 위치에서 책임을 다하는 동료가 되겠습니다.
+> _서비스 특성에 맞는 커스텀 역색인 구조로 조회 시간을 80% 단축했습니다._<br>
+> _기능에 맞는 배치 처리 구조로 배치 시간을 92% 단축했습니다._
 
-## Activity
-- cozymate | Backend Developer (2024.07 ~ ing)
+> 또한, 기능의 목적과 문제 상황에 맞게 설계되어야 합니다. 문제/장애 상황에서도 의도한 결과를 보장하고, 처리 흐름과 운영 변수를 통제할 수 있어야 합니다.
+> 
+> _at-least-once 환경에서 발생할 수 있는 중복 실행과 작업 유실 가능성을 상태 전이로 통제했습니다._<br>
+> _100만건 배치작업과 사용자 요청간 정합성 문제를 통제했습니다._
 
-- Inha University IT service team | working student (2024.03 ~ 2025.02)
+> 맞춤 설계는 기술의 동작 원리와 한계를 이해하고 상황에 맞게 조합하는 데서 시작된다고 생각합니다.
+> 
+> _기술의 본질을 이해하기 위해 직접 구현하고 실험하며 동작 원리를 학습했습니다._
 
-- UMC 5th Server | Spring (2023.09 ~ 2024.02)
 
-- Data Structure Study Leader(Lead Mentor) | of LANDVIBE, Inha University (2024.03 ~ 2024.07)
+### 기술 스택
 
-- UMC 6th Server | Spring (2024.03 ~ 2024.07)
+Backend : Java(***), Spring Boot(***), Spring Security(**), JPA/QueryDSL(**), Spring Batch(*), Python(**)
 
-- Server/Spring Study Leader(Lead Mentor) | of LANDVIBE, Inha University (2024.08 ~ 2024.09)
+Database : MySQL(***), Redis(**), PostgreSQL(**), MongoDB(*)
 
-- gradu-inha | Leader (2024.07 ~ 2025.04)
+Infra & DevOps : Docker(**), GitHub Actions(**), AWS codedeploy(*)
 
-## contact
-qnfn120@gmail.com
 
 
