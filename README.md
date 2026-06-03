@@ -24,11 +24,11 @@
 
 ### 기술 스택
 
-Backend : Java(***), Spring Boot(***), Spring Security(**), JPA/QueryDSL(**), Spring Batch(*), Python(**)
+Backend : Java, Spring Boot, Spring Security, JPA/QueryDSL, Spring Batch, Python(
 
-Database : MySQL(***), Redis(**), PostgreSQL(**), MongoDB(*)
+Database : MySQL, Redis, PostgreSQL, MongoDB
 
-Infra & DevOps : Docker(**), GitHub Actions(**), AWS codedeploy(*)
+Infra & DevOps : Docker, GitHub Actions, AWS codedeploy
 
 
 
